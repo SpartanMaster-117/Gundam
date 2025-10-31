@@ -1,5 +1,5 @@
 public class Test {
     public static void main(String[] args) {
-        // TODO: Add stuff here
+        System.out.println("Logan was here! :D");
     }
 }
